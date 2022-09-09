@@ -1,0 +1,51 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "John Doe",
+      "email": "john.due@gmail.com"
+    }
+  ],
+  "pacientes": [
+    {
+      "id": "sonitabb",
+      "nombrePaciente": "Mabel ",
+      "nombreDueno": "Javier Rivera Caviedes",
+      "edad": 7,
+      "fecha": "2022-10-07",
+      "hora": "16:30",
+      "motivoConsulta": "Vomitos y diarrea",
+      "direccion": "los castaños 3455"
+    },
+    {
+      "id": "_bkgk3i",
+      "nombrePaciente": "Son Chapuzon",
+      "edad": 7,
+      "nombreDueno": "Madeleine silva",
+      "fecha": "2022-10-13",
+      "hora": "12:00",
+      "motivoConsulta": "por constantes gruñidos y mal humor",
+      "direccion": "los castaños 3455"
+    },
+    {
+      "id": "a4Vi2aa",
+      "nombrePaciente": "cotiti",
+      "edad": 5,
+      "nombreDueno": "valentina avila",
+      "fecha": "2022-09-28",
+      "hora": "14:30",
+      "motivoConsulta": "diarrea constante, quistes en el cuello, encías sangrantes",
+      "direccion": "maria elena 370"
+    },
+    {
+      "id": "_Md3fpU",
+      "nombrePaciente": "Wisito el perrito",
+      "edad": 7,
+      "nombreDueno": "Cristobal Rivera",
+      "fecha": "2022-09-25",
+      "hora": "16:15",
+      "motivoConsulta": "dolor en una de sus patitas",
+      "direccion": "septima avenida 1443"
+    }
+  ]
+}
