@@ -5,6 +5,7 @@
 <br>
 <h1> Instalación y Ejecución</h1>
 <pre>
+  En la carpeta raiz del proyecto abrir una nueva terminal
   Ejecutar comando: npm install
   Ejecutar comando: npm install -g json-server
   Dirijirse a la carpeta /medicalBack 
