@@ -1,0 +1,19 @@
+<h1>Listado de Citas</h1>
+<mat-divider></mat-divider>
+<br />
+
+<div
+  fxLayout="row wrap"
+  fxLayout.xs="column"
+  fxLayoutAlign="center"
+  fxLayoutGap="20px"
+>
+  <div fxFlex="20" 
+        fxFlex.lg="15" 
+        fxFlex.sm="30" 
+        *ngFor="let cita of citas">
+
+    <app-cita-tarjeta [cita]="cita"></app-cita-tarjeta>
+    
+  </div>
+</div>
